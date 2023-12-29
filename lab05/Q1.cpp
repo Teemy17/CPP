@@ -61,7 +61,7 @@ public:
     }
 
     int get_age()
-    {   
+    {
         int age = currentYear - birthyear - ((currentMonth < birthmonth || (currentMonth == birthmonth && currentDay < birthday)) ? 1 : 0);
         return age;
     }

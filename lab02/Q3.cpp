@@ -36,7 +36,7 @@ int main()
     {
         double x = rnd();
         double y = rnd();
-        
+
         if (x * x + y * y <= 1)
         {
             ++points_inside;
