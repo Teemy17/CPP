@@ -31,7 +31,3 @@
 *.out
 *.app
 
-# non-extension files
-*
-!/**/
-!*.*
