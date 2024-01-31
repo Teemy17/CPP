@@ -31,7 +31,7 @@
 *.out
 *.app
 
-lab01/main
+*/lab01/main
 lab02/Q1
 lab02/Q1_3
 lab02/Q2
