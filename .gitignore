@@ -6,48 +6,43 @@
 *.lo
 *.o
 *.obj
-
 # Precompiled Headers
 *.gch
 *.pch
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-
 # Fortran module files
 *.mod
 *.smod
-
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
 # Executables
 *.exe
 *.out
 *.app
 
-*/lab01/main
-lab02/Q1
-lab02/Q1_3
-lab02/Q2
-lab02/Q3
-lab03/Q1
+lab01/main
 lab03/Q2
+lab03/Q1
+lab02/Q1_3
+lab02/Q3
+lab02/Q1
+lab02/Q2
 lab04/Q1
-lab04/Q1_2
 lab04/Q2
+lab04/Q1_2
 lab05/Q1
 lab05/Q2
 lab06/Q1
 lab06/Q2
 lab06/Q3
+lab07/Q3
 lab07/Q1
 lab07/Q2
-lab07/Q3
-lab08/Q1
 lab08/Q2
+lab08/Q1
