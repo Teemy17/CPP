@@ -33,3 +33,5 @@
 
 # non-extension files
 *
+!/**/
+!*.*
